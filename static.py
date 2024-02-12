@@ -1,0 +1,10 @@
+heightImg = 2400
+widthImg = 1800
+questions = 20
+choices = 5
+count = 0
+sutun_h = 96 * 5
+sutun_w = 28 * 5
+kare_hw = 48 * 5
+yesil = (0, 255, 0)
+kirmizi = (0, 0, 255)
